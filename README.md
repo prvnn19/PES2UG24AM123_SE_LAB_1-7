@@ -1,0 +1,17 @@
+# Software Engineering Lab Submissions (Labs 1–7)
+
+- **Name:** Praveen Naik
+- **SRN:**  PES2UG24AM123
+- **Department** Computer Science & Engineering (AI & ML), PES University
+
+
+---
+
+## Lab Index
+
+| Lab | Project | Repository |
+| --- | --- | --- |
+| **Labs 1–3** | Customizable Subscription Box Scheduler | [GitHub](https://github.com/prvnn19/PS35_Customizable_Subscription_Box_Scheduler/tree/main) |
+| **Lab 4** | Fruit Ninja | [GitHub](https://github.com/prvnn19/41_fruit-ninja) |
+| **Lab 5** | Income Tax Calculator | [GitHub](https://github.com/prvnn19/L5_53_income-tax-calculator) |
+| **Labs 6–7** | Irrigation Scheduler | [GitHub](https://github.com/prvnn19/L6_L7_irrigation_scheduler/tree/main) |
